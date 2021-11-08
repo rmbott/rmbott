@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ryan M. Bott     @rmbott
+- 👀 I’m interested in LAMP stack web development, mathematics, and philosophy.
+- 🌱 I’m currently learning the Symfony framework.
+- 📫 You can reach me at rmb45813 [at] alumni [dot] bloomu [dot] com
