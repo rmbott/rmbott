@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Ryan M. Bott     @rmbott
-- 👀 I’m interested in LAMP stack web development, mathematics, and philosophy.
-- 🌱 I’m currently learning the Symfony framework.
-- 📫 You can reach me at rmb45813 [at] alumni [dot] bloomu [dot] com
+- Hi, I’m Ryan M. Bott     @rmbott
+- I’m a Network Engineer.
+- I have a B.A. in Mathematics
+- I have a B.A. in Philosophy
+- I've been married 20+ years and have two children.
+- I like solving problems--networking, software engineering, system administration, network automation, web dev...stuff like that.
